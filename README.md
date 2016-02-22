@@ -1,5 +1,5 @@
 # gitskills
 clone
-Creating a new branch is quick and simple.sgs
+Creating a new branch is quick and simple.sgsT
 
 
